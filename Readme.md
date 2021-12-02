@@ -1,0 +1,1 @@
+# CocoaPods private spec
